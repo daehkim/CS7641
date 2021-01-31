@@ -1,0 +1,5 @@
+bin
+include
+lib
+./hw1/data/mnist_train.csv
+./hw1/data/mnist_test.csv
